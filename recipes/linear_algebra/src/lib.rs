@@ -9,6 +9,10 @@ use std::ops::{Index, IndexMut};
 pub use dense::{gauss_jordan, gaussian_solve, refine, Cholesky, Lu, Qr};
 pub use sparse::{bicg, Csr, Iteration, StopCriterion};
 
+pub mod structured;
+pub use structured::{cyclic_tridiagonal, toeplitz, tridiagonal, vandermonde, BandLu, BandMatrix};
+
+
 
 #[derive(Debug, Clone, PartialEq)]
 pub enum Error {
