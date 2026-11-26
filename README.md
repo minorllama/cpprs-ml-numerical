@@ -1,4 +1,4 @@
-# Numerical algorithms
+# Machine Learning & numerical methods using C++/CUDA/Rust
 
 Implementation of various numerical algorithms and some neural nets in `rust`, `c++` (using `cuda`, `cuda-oxide`, and `burn` for `rust`). 
 
