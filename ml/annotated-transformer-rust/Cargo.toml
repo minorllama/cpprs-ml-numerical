@@ -1,0 +1,9 @@
+[package]
+name = "annotated-transformer"
+version = "0.1.0"
+edition = "2024"
+authors = ["minorllama"]
+rust-version = "1.89"
+
+[dependencies]
+tch = "=0.27.0"
