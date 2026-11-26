@@ -10,6 +10,8 @@ Implementation of various numerical algorithms and some neural nets in `rust`, `
 
     - [cuda-cpp/tensor-cublas](https://github.com/minorllama/numerical_algorithms/tree/main/cuda-cpp/tensor-cublas) shows using tensor cores and `cuBLAS`.
 
+* For an example of inference with tensorflow in C++, see: [tensorflow C++ inference](https://github.com/minorllama/numerical_algorithms/blob/main/ml/inference-tensorflow-c%2B%2B/the_learning_problem.md).
+
 * The path `ml/two_class_nn` contains implementation of a basic neural net classifier for a two class problem in `rust` and `cpp`, meant as getting-started reference examples for machine learning in C++ and rust. 
 
 * The `recipes` directory contains various numerical recipes, some from [Numerical recipes in C](https://numerical.recipes/book.html).    
