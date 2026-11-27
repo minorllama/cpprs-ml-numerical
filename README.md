@@ -14,4 +14,6 @@ Implementation of various numerical algorithms and some neural nets in `rust`, `
 
 * The path `ml/two_class_nn` contains implementation of a basic neural net classifier for a two class problem in `rust` and `cpp`, meant as getting-started reference examples for machine learning in C++ and rust. 
 
+* [Annotated-Transformer-Rust](https://github.com/minorllama/cpprs-ml-numerical/tree/main/ml/annotated-transformer-rust) is a port of the [Harvard NLP’s The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) (for a refactored python version, [Refactored Annotated Transformer](https://github.com/minorllama/mlearn/tree/main/annotated-transformer))
+
 * The `recipes` directory contains various numerical recipes, some from [Numerical recipes in C](https://numerical.recipes/book.html).    
